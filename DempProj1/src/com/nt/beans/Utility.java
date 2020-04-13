@@ -10,7 +10,7 @@ public class Utility {
 public void m1(){
 
 	System.out.println("utility m1 method:1234");
-	System.out.println("nanu2417");
+	System.out.println("nanu1996");
 
 }
 }
